@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Jan 28 16:17:26 2023
+# Process ID: 7868
+# Current directory: C:/Users/Anti-cheat-WIN10/Documents/counterUD16L/counterUD16L.runs/impl_1
+# Command line: vivado.exe -log counterUD16L.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source counterUD16L.tcl -notrace
+# Log file: C:/Users/Anti-cheat-WIN10/Documents/counterUD16L/counterUD16L.runs/impl_1/counterUD16L.vdi
+# Journal file: C:/Users/Anti-cheat-WIN10/Documents/counterUD16L/counterUD16L.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source counterUD16L.tcl -notrace
